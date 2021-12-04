@@ -554,6 +554,11 @@ img {
     padding-bottom: 60px;
 }
 
+.footer-left {
+    width: 231px;
+    height: 81px;
+}
+
 .footer > .container {
     display: flex;
 }
@@ -652,6 +657,8 @@ img {
 }
 
 .footer-nav {
+    width: 206px;
+    height: 80px;
     margin-left: 70px;
     box-sizing: inherit;
 }
@@ -717,6 +724,11 @@ img {
     color: var(--main-btn-color);
 }
 
+.footer-right {
+    width: 570px;
+    height: 86px;
+}
+
 .footer-right-titel {
     font-style: normal;
     font-weight: 700;
@@ -728,10 +740,6 @@ img {
     margin-left: 93px;
     margin-top: 0;
     margin-bottom: 0;
-}
-
-.footer-form-icon {
-    display: flex;
 }
 
 .footer-right-input {
@@ -747,9 +755,6 @@ img {
     margin-top: 20px;
 }
 
-.footer-btn {
-    margin-left: 12px;
-}
 .footer-right-input {
     padding-left: 16px;
     padding-top: 15px;
@@ -762,6 +767,7 @@ img {
     align-items: center;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
+    margin-right: 12px;
 }
 
 .footer-right-input::placeholder {
@@ -775,6 +781,7 @@ img {
     color: rgba(255, 255, 255, 0.6);
 
 }
+
 
 /* ----------------------------modal--------------------------------- */
 .backdrop {
