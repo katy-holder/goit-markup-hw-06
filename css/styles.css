@@ -730,6 +730,10 @@ img {
     margin-bottom: 0;
 }
 
+.footer-form-icon {
+    display: flex;
+}
+
 .footer-right-input {
     width: 358px;
     height: 50px;
@@ -743,6 +747,9 @@ img {
     margin-top: 20px;
 }
 
+.footer-btn {
+    margin-left: 12px;
+}
 .footer-right-input {
     padding-left: 16px;
     padding-top: 15px;
