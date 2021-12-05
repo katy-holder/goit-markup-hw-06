@@ -725,11 +725,13 @@ img {
 }
 
 .footer-right {
+    display: flex;
     width: 570px;
     height: 86px;
 }
 
 .footer-right-titel {
+    width: 219px;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
